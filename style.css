@@ -35,4 +35,12 @@ footer {
     padding: 15px;
     background-color: #17365d;
     color: white;
+} 
+section h3 {
+    color: #2b6cb0;
+    margin-bottom: 5px;
+}
+
+section p {
+    line-height: 1.6;
 }
